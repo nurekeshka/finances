@@ -1,0 +1,18 @@
+{
+    "DJANGO": {
+        "SECRET": "asdfhaksjdhfkahsdgfkahbsdjkfgasDHGfaijsfghqawusifhq298ufiqe9h8U@(!",
+        "LANGUAGE_CODE": "en-us",
+        "TIME_ZONE": "UTC",
+        "USE_I18N": true,
+        "USE_TZ": true,
+        "DEBUG": true,
+        "ALLOWED_HOSTS": [
+            "localhost",
+            "127.0.0.1"
+        ]
+    },
+    "DATABASE": {
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": "db.sqlite3"
+    }
+}
